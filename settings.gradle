@@ -1,0 +1,6 @@
+rootProject.name = "MyPracticeDemo"
+include ':app'
+include ':openGL'
+include ':lib_common'
+include ':JNI'
+include ':AudioAndVideo'
