@@ -16,7 +16,7 @@ import java.io.IOException
  *
  * @Author: hjj
  * @CreateDate: 2022/3/2 10:22
- * @Description:
+ * @Description: 裁剪图片指定区域
  */
 object Tools {
 
